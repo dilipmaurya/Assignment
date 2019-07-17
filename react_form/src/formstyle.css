@@ -1,0 +1,29 @@
+
+.container{
+	margin-right:500px;
+    padding: 25px 25px 25px 25px;
+    margin-top:100px;
+    border: 2px solid black;
+    margin-left:400px;
+    
+
+}
+#name{
+	margin-right: 40px;
+    color: solid black;
+}
+#age{
+	margin-right: 55px;
+    color: solid black;
+}
+#submit{
+	padding-top: 10px;
+	margin-left: 18%;
+}
+.form{
+	text-align: center;
+	color: blue;
+}
+.data{
+	text-align: center;
+}
